@@ -19,5 +19,8 @@ It does not catch the PokÃ©mon, but says the name so it is `not` a selfbot. PokÃ
 
 > Discord's API provides a separate type of user account dedicated to automation, called a bot account. Bot accounts can be created through the applications page, and are authenticated using a token (rather than a username and password). Unlike the normal OAuth2 flow, bot accounts have full access to all API routes without using bearer tokens, and can connect to the Real Time Gateway. Automating normal user accounts (generally called "self-bots") outside of the OAuth2/bot API is forbidden, and can result in an account termination if found. -Discord
 
+Selfbots are able to interact with other bots, and my bot Xen cannot, a selfbot is a bot without a bot tag. A regular discord bot should always have a verified bot tag or a bot tag that looks like this
+
+![alt text](https://cdn.discordapp.com/attachments/832366039533748255/837834489613910036/unknown.png)
 
 
