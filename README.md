@@ -11,6 +11,14 @@ Xen is a multi-purpose bot, with moderation capabilities! It has few commands ce
 # Information
 Xen was made to help Pokétwo players, it will tell you what Pokémon spawned, along with many other feature. This will make sure you never have to use google to search for some Pokémon you might not know! Adding a automatic Shiny Hunt and Rare feature will make sure you never miss a rare Pokémon or your Shiny Hunt!
 
+# Version
+Xen is currently at Version 2.4v
+
+These are some of the following Pokétwo features!
+- [x] Name Pokémon Spawned
+- [ ] Ping Shiny Hunts
+- [ ] Ping Rare Spawns
+
 # Rumors
 **I wanted to clear some rumors up!**
 
