@@ -1,4 +1,4 @@
-| ⚠️  |      Xen currently works with 2021 Pokétwo, with new UI, bug fixes, 100% accuracy      |
+| ⚠️  |      Xen currently works with 2021 Pokétwo, with new UI, bug fixes, 98.02% accuracy      |
 |----------|:-------------:|
 
 [![Bot Invite](https://img.shields.io/badge/Bot%20Invite-Xen-brightgreen.svg?style=flat)](https://discord.com/api/oauth2/authorize?client_id=826935014049972265&permissions=511049&scope=bot%20applications.commands)
