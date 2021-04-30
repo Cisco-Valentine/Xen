@@ -21,6 +21,6 @@ It does not catch the Pok√©mon, but says the name so it is `not` a selfbot. Pok√
 
 Selfbots are able to interact with other bots, and my bot Xen cannot, a selfbot is a bot without a bot tag. A regular discord bot should always have a verified bot tag or a bot tag that looks like this.
 
-![alt text](https://cdn.discordapp.com/attachments/827134687252185128/837837444383637544/unknown.png)
+![alt text](https://cdn.discordapp.com/attachments/823945992927707176/837837673644687370/unknown.png)
 
 
