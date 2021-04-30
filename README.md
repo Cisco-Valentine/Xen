@@ -10,4 +10,4 @@ Xen is a multi-purpose bot, with moderation capabilities! It has few commands ce
 
 **_This bot is `not` against Discord TOS and Pokétwo code of conduct._**
 > [Discord TOS](https://discord.com/terms)  
-/n > [Pokétwo TOS](https://poketwo.net/code-of-conduct)
+> [Pokétwo TOS](https://poketwo.net/code-of-conduct)
