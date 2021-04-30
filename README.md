@@ -1,4 +1,4 @@
-| ⚠️  |      Xen currently works with 2021 Pokétwo.      |
+| ⚠️  |      Xen currently works with 2021 Pokétwo, with new UI, bug fixes, 100% accuracy      |
 |----------|:-------------:|
 
 # Xen
