@@ -8,6 +8,6 @@
 
 Xen is a multi-purpose bot, with moderation capabilities! It has few commands centered around Pokétwo, which is a Pokémon bot. It also has utility commands and much more! Its main feature is to identify Pokémons spawned by Pokétwo.
 
-**_This bot is `not` against Discord TOS and Pokétwo code of conduct._**
+**This bot is `not` against Discord TOS and Pokétwo code of conduct. This bot does not catch the bot but says the name**
 > [Discord TOS](https://discord.com/terms)  
 > [Pokétwo TOS](https://poketwo.net/code-of-conduct)
