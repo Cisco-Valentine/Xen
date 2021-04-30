@@ -1,4 +1,4 @@
-| ⚠️  |      Are      |
+| ⚠️  |      Xen currently works with 2021 Pokétwo.      |
 |----------|:-------------:|
 
 # Xen
