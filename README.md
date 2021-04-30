@@ -8,6 +8,9 @@
 
 Xen is a multi-purpose bot, with moderation capabilities! It has few commands centered around Pokétwo, which is a Pokémon bot. It also has utility commands and much more! Its main feature is to identify Pokémons spawned by Pokétwo.
 
+# Information
+Xen was made to help Pokétwo players, it will tell you what Pokémon spawned, along with many other feature. This will make sure you never have to use google to search for some Pokémon you might not know! Adding a automatic Shiny Hunt and Rare feature will make sure you never miss a rare Pokémon or your Shiny Hunt!
+
 # Rumors
 **I wanted to clear some rumors up!**
 
@@ -22,5 +25,3 @@ It does not catch the Pokémon, but says the name so it is `not` a selfbot. Pok�
 Selfbots are able to interact with other bots, and my bot Xen cannot, a selfbot is a bot without a bot tag. A regular discord bot should always have a verified bot tag or a bot tag that looks like this.
 
 ![alt text](https://cdn.discordapp.com/attachments/823945992927707176/837837673644687370/unknown.png)
-
-
