@@ -5,4 +5,9 @@
 [![Bot Invite](https://img.shields.io/badge/Discord-Join%20Here-blue.svg?style=flat)](https://discord.gg/futureworld)
 
 # Xen
-### Xen is a multi-purpose bot, with moderation capabilities! It has few commands centered around Pokétwo, which is a Pokémon bot. It also has utility commands and much more! Its main feature is to identify Pokémons spawned by Pokétwo
+
+Xen is a multi-purpose bot, with moderation capabilities! It has few commands centered around Pokétwo, which is a Pokémon bot. It also has utility commands and much more! Its main feature is to identify Pokémons spawned by Pokétwo.
+
+**_This bot is `not` against Discord TOS and Pokétwo code of conduct._**
+> [Discord TOS](https://discord.com/terms)
+> [Pokétwo TOS](https://poketwo.net/code-of-conduct)
