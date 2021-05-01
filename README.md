@@ -14,16 +14,17 @@ Future#9409
 # Information
 Xen was made to help Pokétwo players, it will tell you what Pokémon spawned, along with many other feature. This will make sure you never have to use google to search for some Pokémon you might not know! Adding a automatic Shiny Hunt and Rare feature will make sure you never miss a rare Pokémon or your Shiny Hunt!
 
-# 
+# Premium
+To gain something out of making a huge project like this, where I provided over 900k images, I need to make some money, I am not making it very expensive as I understand some people may not be able to afford this! The cost for premium is 5$, you also can get 150k Pokécoins along with your purchase!
+
+# Features
+
+|      Feature Names      |      Description      |
+|      🔍 Spawn Find      |      The bot will identify the any Pokémon which spawns in any Channel      |
+|----------|:-------------:|
 
 # Version
 Xen is currently at Version `2.4v`
-
-These are some of the following Pokétwo features!
-- [x] Name's pokémon spawned
-- [x] Name's pokémon spawned in **Incense**
-- [ ] Ping Shiny Hunts
-- [ ] Ping Rare Spawns
 
 # Issues
 Having Issues with my bot? Create a Github Issue, or join the support server https://discord.gg/futureworld
