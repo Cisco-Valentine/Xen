@@ -19,19 +19,17 @@ To gain something out of making a huge project like this, where I provided over 
 
 # Features
 
-|      Feature Names      |      Description      |
-|      🔍 Spawn Find      |      The bot will identify the any Pokémon which spawns in any Channel      |
-|----------|:-------------:|
+_**These are all the Pokétwo related commands**_
 
 | Feature Names  | Description |
 | ------------- | ------------- |
 | 🔍 Spawn Find  | The bot will identify the any Pokémon which spawns in any Channel  |
 | ✨ Shiny Hunt  | The bot will ping you when your Shiny Hunt Pokémon Spawns. **(Premium)** |
 | 🏓 Rare Spawn Ping | The bot will ping a specific role if an Alolan, Legendary or Mythical Pokémon Spawns. **(Premium)** **(Server Only)** |
-| 💨 | Faster Spawn Find (From 3000ms to 500ms) **(Premium)** **(Server Only)** |
-| 💰 | Auto Shiny Price Check |
-| 👥 | Pings other members in your server, if their Shiny Hunt Pokémon spawns. **(Premium)** **(Server Only)** |
-| 🧍 | The bot will ping you if an Alolan, Legendary or Mythical Pokémon Spawns. **(Premium)** |
+| 💨 Fast Spawn Find | The bot will faster identify spawns (From 3000ms to 500ms) **(Premium)** **(Server Only)** |
+| 💰 Price Check | The bot will auto Shiny Price Check |
+| 👥 Shiny Hunt for all | The bot will pings other members in your server, if their Shiny Hunt Pokémon spawns. **(Premium)** **(Server Only)** |
+| 🧍 Rare Spawn Ping for all | The bot will ping you if an Alolan, Legendary or Mythical Pokémon Spawns. **(Premium)** |
 
 # Version
 Xen is currently at Version `2.4v`
