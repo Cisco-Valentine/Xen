@@ -14,6 +14,8 @@ Future#9409
 # Information
 Xen was made to help Pokétwo players, it will tell you what Pokémon spawned, along with many other feature. This will make sure you never have to use google to search for some Pokémon you might not know! Adding a automatic Shiny Hunt and Rare feature will make sure you never miss a rare Pokémon or your Shiny Hunt!
 
+# 
+
 # Version
 Xen is currently at Version `2.4v`
 
