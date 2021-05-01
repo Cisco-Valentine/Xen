@@ -23,6 +23,12 @@ These are some of the following Pokétwo features!
 - [ ] Ping Shiny Hunts
 - [ ] Ping Rare Spawns
 
+# Issues
+Having Issues with my bot? Create a Github Issue, or join the support server https://discord.gg/futureworld
+
+# Official Server
+https://discord.gg/futureworld
+
 # Rumors
 **I wanted to clear some rumors up!**
 
@@ -37,3 +43,6 @@ It does not catch the Pokémon, but says the name so it is `not` a selfbot. Pok�
 Selfbots are able to interact with other bots, and my bot Xen cannot, a selfbot is a bot without a bot tag. A regular discord bot should always have a verified bot tag or a bot tag.
 
 # Screenshots
+
+# Help
+Comming Soon!
