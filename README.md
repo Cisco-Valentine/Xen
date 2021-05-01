@@ -54,6 +54,6 @@ It does not catch the Pok√©mon, but says the name so it is `not` a selfbot. Pok√
 Selfbots are able to interact with other bots, and my bot Xen cannot, a selfbot is a bot without a bot tag. A regular discord bot should always have a verified bot tag or a bot tag.
 
 # Screenshots
-
+![alt text](https://gm1.ggpht.com/jcONwRfqkbcmLagQ0NACs9GbLleNd2kVFYwZ47LT5SxDdQ41mNukTPD3tgoqntiPEOtyR8wLA2vLuBdO-WvHNs1iCHdzLsvi0Yrc1xRzBIpWFu3xRZTM23zCsRH1Uq-9zU3KDOxYRH6kBU9zqQbTSADG5OomIcLZ8XgUMoL8V0S38NM9jlr6x7hQtS2WtWuRQmD8CT0ydVmLECuAR-GpBbP3b3BIsaXXEEctOegtOmIhZg-9xOWfXmTSyucRxgR94TUYak6vtZrBEeK1i-9sesOWmaDWlKBhn9c6qQk6qCBkuo_6YB-8179m7U6_88svr1z5KNQarfJPPieS4Iby3Q_RubG0Lu2KEsjuYpa0bXfTuqAHLXDl2CVpP7dv7chiNUwqBDhKzuRqsT3ou5ZqKHkwlz6E3niz13wthjNAwDAh3E8YLz3iumlgqEpzyQpf-h8Q-63FB1tz6X9H8neNHKYrhN-s-GXfRwJt_aUuxYMsBK9Dixs5CZEYG2XBJ7fgcmv0UWf8XiqFm6I0ZX6AxuwaRb987tgP7d7BugzNI65rnPIHC5KR7AOpFC8so6hWi6oZ7tQ9jmnt5YYfJrGhDOcC3XEtNsIaj4Cw9Xjc01bJc18p0qe6GRK203lFLkseWi5qzAC_52N2aumP-4ugKDS0m0S_4bGv1okoyVNHJ4okeOgO-KkhGN-KZ9619WiLwCgz_YbL2to2nrmkAun7cQQJz7-i8PmNjdsd-N2lzeU30Kk8DzaZT7TDfpxwjzy6ZWw=s0-l75-ft-l75-ft)
 # Help
 Comming Soon!
