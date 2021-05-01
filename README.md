@@ -8,6 +8,9 @@
 
 Xen is a multi-purpose bot, with moderation capabilities! It has few commands centered around Pokétwo, which is a Pokémon bot. It also has utility commands and much more! Its main feature is to identify Pokémons spawned by Pokétwo.
 
+# Developer
+Future#9409
+
 # Information
 Xen was made to help Pokétwo players, it will tell you what Pokémon spawned, along with many other feature. This will make sure you never have to use google to search for some Pokémon you might not know! Adding a automatic Shiny Hunt and Rare feature will make sure you never miss a rare Pokémon or your Shiny Hunt!
 
@@ -15,9 +18,11 @@ Xen was made to help Pokétwo players, it will tell you what Pokémon spawned, a
 Xen is currently at Version 2.4v
 
 These are some of the following Pokétwo features!
-- [x] Name Pokémon Spawned
+- [x] Name's pokémon spawned
+- [x] Name's pokémon spawned in **Incense**
 - [ ] Ping Shiny Hunts
 - [ ] Ping Rare Spawns
+- [ ] 
 
 # Rumors
 **I wanted to clear some rumors up!**
@@ -26,8 +31,10 @@ These are some of the following Pokétwo features!
 > [Discord TOS](https://discord.com/terms)  
 > [Pokétwo TOS](https://poketwo.net/code-of-conduct)
 
-It does not catch the Pokémon, but says the name so it is `not` a selfbot. Pokétwo's bot creator, [Oliver Ni](https://github.com/oliver-ni) has approved this bot and said it is safe for people to use.  
+It does not catch the Pokémon, but says the name so it is `not` a selfbot. Pokétwo's bot creator, [Oliver Ni](https://github.com/oliver-ni) has approved this bot and said it is safe for people to use.
 
 > Discord's API provides a separate type of user account dedicated to automation, called a bot account. Bot accounts can be created through the applications page, and are authenticated using a token (rather than a username and password). Unlike the normal OAuth2 flow, bot accounts have full access to all API routes without using bearer tokens, and can connect to the Real Time Gateway. Automating normal user accounts (generally called "self-bots") outside of the OAuth2/bot API is forbidden, and can result in an account termination if found. -Discord
 
 Selfbots are able to interact with other bots, and my bot Xen cannot, a selfbot is a bot without a bot tag. A regular discord bot should always have a verified bot tag or a bot tag.
+
+# Screenshots
