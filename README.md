@@ -22,7 +22,6 @@ These are some of the following Pokétwo features!
 - [x] Name's pokémon spawned in **Incense**
 - [ ] Ping Shiny Hunts
 - [ ] Ping Rare Spawns
-- [ ] 
 
 # Rumors
 **I wanted to clear some rumors up!**
