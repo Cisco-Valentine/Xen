@@ -23,6 +23,12 @@ To gain something out of making a huge project like this, where I provided over 
 |      🔍 Spawn Find      |      The bot will identify the any Pokémon which spawns in any Channel      |
 |----------|:-------------:|
 
+| Feature Names  | Description |
+| ------------- | ------------- |
+| 🔍 Spawn Find  | The bot will identify the any Pokémon which spawns in any Channel  |
+| ✨ Shiny Hunt  | The bot will ping the any user if their Shiny Hunt Pokémon Spawns. **(Premium)** |
+| 🏓 Rare Spawn Ping | The bot will ping a specific role if an Alolan, Legendary or Mythical Pokémon Spawns. |
+
 # Version
 Xen is currently at Version `2.4v`
 
