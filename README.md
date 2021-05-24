@@ -14,9 +14,6 @@ Future#9409
 # Information
 Xen was made to help Pokétwo players, it will tell you what Pokémon spawned, along with many other feature. This will make sure you never have to use google to search for some Pokémon you might not know! Adding a automatic Shiny Hunt and Rare feature will make sure you never miss a rare Pokémon or your Shiny Hunt!
 
-# Premium
-To gain something out of making a huge project like this, where I provided over 900k images, I need to make some money, I am not making it very expensive as I understand some people may not be able to afford this! The cost for premium is 5$, you also can get 150k Pokécoins along with your purchase!
-
 # Features
 
 _**These are all the Pokétwo related commands**_
@@ -26,10 +23,8 @@ _**These are all the Pokétwo related commands**_
 | 🔍 Spawn Find  | The bot will identify the any Pokémon which spawns in any Channel  |
 | ✨ Shiny Hunt  | The bot will ping you when your Shiny Hunt Pokémon Spawns. **(Premium)** |
 | 🏓 Rare Spawn Ping | The bot will ping a specific role if an Alolan, Legendary, Ultra Beast or Mythical Pokémon Spawns. **(Premium)** **(Server Only)** |
-| 💨 Fast Spawn Find | The bot will faster identify spawns (From 3000ms to 500ms) **(Premium)** **(Server Only)** |
 | 💰 Price Check | The bot will auto Shiny Price Check |
-| 👥 Shiny Hunt for all | The bot will pings other members in your server, if their Shiny Hunt Pokémon spawns. **(Premium)** **(Server Only)** |
-| 🧍 Rare Spawn Ping for all | The bot will ping you if an Alolan, Legendary, Ultra Beast or Mythical Pokémon Spawns. **(Premium)** |
+| 📌 Auto Pin| The bot will auto pin if an Alolan, Legendary, Ultra Beast or Mythical Pokémon Spawns. |
 
 # Version
 Xen is currently at Version `2.4v`
